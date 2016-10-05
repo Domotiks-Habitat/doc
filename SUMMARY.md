@@ -1,4 +1,4 @@
 # Summary
 
-* Dashboard
+* [Dashboard](dashboard.md)
 
